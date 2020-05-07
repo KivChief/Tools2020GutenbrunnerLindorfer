@@ -8,7 +8,6 @@ int main()
 
 int thisIsTheGreatest(int goodStuff){
 	int myFavouriteNumber = 69;
-	
-	
-	return myfavouriteNumber;
+
+	return goodStuff * myFavouriteNumber;
 }
