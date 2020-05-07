@@ -6,4 +6,6 @@ int main()
 	std::cout << "Hello World!" << std::endl;
 }
 
-int thisIsTheGreatest(int goodStuff){}
+int thisIsTheGreatest(int goodStuff){
+	return goodStuff;
+}
