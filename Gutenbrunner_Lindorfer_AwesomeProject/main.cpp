@@ -11,3 +11,13 @@ int thisIsTheGreatest(int goodStuff){
 
 	return goodStuff * myFavouriteNumber;
 }
+
+int foo(int nice){
+
+	return nice;
+}
+
+int goo(int mimimi){
+
+	return mimimi;
+}
