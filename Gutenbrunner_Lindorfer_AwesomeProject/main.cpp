@@ -7,7 +7,8 @@ int main()
 }
 
 int thisIsTheGreatest(int goodStuff){
-	int myFavouriteNumber = 69;
+	int myFavouriteNumber = 69; // Wow very childish
+	int myFavouriteMovie = "Highschool Musical";
 
 	return goodStuff + myFavouriteNumber;
 }
