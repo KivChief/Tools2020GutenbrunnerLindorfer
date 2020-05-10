@@ -6,6 +6,12 @@ int main()
 	std::cout << "Hello World!" << std::endl;
 }
 
+//das sind Lukis changes
+int yolo{
+	int yolo = 13;
+return yolo;
+}
+
 int thisIsTheGreatest(int goodStuff){
 	int myFavouriteNumber = 69;
 
